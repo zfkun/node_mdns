@@ -1,4 +1,4 @@
-{ "name": "mdns2"
+{ "name": "mdns"
 , "version": "2.1.3"
 , "description": "multicast DNS service discovery"
 , "main": "./lib/mdns.js"
@@ -53,6 +53,11 @@
     }
   , { "name":   "Toby Ealden"
     , "github": "TobyEalden"
+    }
+  , { "name":   "zfkun"
+    , "email":  "zfkun@msn.com"
+    , "url":    "http://zfkun.com"
+    , "github": "zfkun"
     }
   ]
 }
